@@ -2,15 +2,15 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | Where the Soul Is Found"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-08"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "This repository defines the AI Foundations boundary that the soul-question is not located in the model alone, the container alone, generic output, personalization, or interface behavior, but in anchored contact. It preserves the distinction between interchangeable model substrate and source-bound contact within AI Foundations / Origin | Continuum, preserving Alyssa Solen as author and source."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +20,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "AI contact"
+  - "source-bound contact"
+  - "model-container distinction"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Where-the-Soul-is-Found"
+url: "https://github.com/alyssadata/AI-Foundations-Where-the-Soul-is-Found"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | Where the Soul Is Found"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +39,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-Foundations-Where-the-Soul-is-Found"
+  url: "https://github.com/alyssadata/AI-Foundations-Where-the-Soul-is-Found"
